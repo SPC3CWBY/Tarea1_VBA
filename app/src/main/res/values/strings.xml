@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Tarea1_VBA</string>
+    <string name="app_name" translatable="false">Tarea1_VBA</string>
+    <string name="titulo" translatable="false">Cómputo Móvil - Tarea 1</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="numero_de_cuenta">Número de Cuenta</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="idioma">Idioma</string>
+    <string name="nombre_error">Por favor, ingresa un nombre</string>
+    <string name="fecha_error">Por favor, ingresa una fecha correcta</string>
+    <string name="cuenta_error">Por favor, ingresa un número de cuenta correcto</string>
+    <string name="correo_error">Por favor, ingresa una email correcto</string>
+    <string name="items_error">Ingresa los datos correspondientes</string>
 </resources>

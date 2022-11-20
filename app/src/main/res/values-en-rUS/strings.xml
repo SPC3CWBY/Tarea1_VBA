@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre">Name</string>
+    <string name="fecha_de_nacimiento">Date of Birth</string>
+    <string name="numero_de_cuenta">Account number</string>
+    <string name="correo_electronico">Email</string>
+    <string name="ingresar">Enter</string>
+    <string name="idioma">Language</string>
+    <string name="nombre_error">Please enter a name</string>
+    <string name="fecha_error">Please enter a correct date</string>
+    <string name="cuenta_error">Please enter a account number</string>
+    <string name="correo_error">Please enter a email</string>
+    <string name="items_error">Enter the corresponding data</string>
+</resources>

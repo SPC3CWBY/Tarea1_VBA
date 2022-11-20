@@ -7,6 +7,10 @@ android {
     namespace 'com.example.tarea1_vba'
     compileSdk 32
 
+    buildFeatures {
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.example.tarea1_vba"
         minSdk 23
