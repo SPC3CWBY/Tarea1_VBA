@@ -11,4 +11,6 @@
     <string name="cuenta_error">Please enter a account number</string>
     <string name="correo_error">Please enter a email</string>
     <string name="items_error">Enter the corresponding data</string>
+    <string name="edad">Age</string>
+    <string name="zodiac">"Your zodiacs are: "</string>
 </resources>
